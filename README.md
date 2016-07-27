@@ -1,3 +1,2 @@
 # Rename_Later
-Matt and Ben make a game.
-i hate ben
+A simple mobile app for learning purposes.
